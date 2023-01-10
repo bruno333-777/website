@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wesbite/static/css/main.073c9b0a.css",
-    "main.js": "/wesbite/static/js/main.3ae6066f.js",
-    "static/js/787.133c12df.chunk.js": "/wesbite/static/js/787.133c12df.chunk.js",
-    "static/media/logo.svg": "/wesbite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/wesbite/index.html",
-    "main.073c9b0a.css.map": "/wesbite/static/css/main.073c9b0a.css.map",
-    "main.3ae6066f.js.map": "/wesbite/static/js/main.3ae6066f.js.map",
-    "787.133c12df.chunk.js.map": "/wesbite/static/js/787.133c12df.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f03eb07d.js",
+    "static/js/787.133c12df.chunk.js": "/static/js/787.133c12df.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f03eb07d.js.map": "/static/js/main.f03eb07d.js.map",
+    "787.133c12df.chunk.js.map": "/static/js/787.133c12df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3ae6066f.js"
+    "static/js/main.f03eb07d.js"
   ]
 }
